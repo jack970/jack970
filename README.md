@@ -1,14 +1,17 @@
+![perfil-git](https://user-images.githubusercontent.com/53658838/99437026-a1fe6d00-28f0-11eb-8954-398f8705f93a.png)
+
 # Olá, eu sou Ítalo 👋
 
-**jack970/jack970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sobre:** ✨
 
-Here are some ideas to get you started:
+Desenvolvo as aplicações com as seguintes tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**FrontEnd:**
+  - React
+  - Gatsby
+  - Flutter
+#
+    
+**BackEnd:**
+  - Express
+  - Strapi
