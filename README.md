@@ -12,6 +12,6 @@ Desenvolvo as aplicações com as seguintes tecnologias:
   - Flutter
 #
     
-**BackEnd:**
+**API Rest:**
   - Express
   - Strapi
