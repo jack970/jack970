@@ -1,17 +1,5 @@
-![perfil-git](https://user-images.githubusercontent.com/53658838/99437026-a1fe6d00-28f0-11eb-8954-398f8705f93a.png)
+## Olá, eu sou Ítalo 👋
 
-# Olá, eu sou Ítalo 👋
-
-**Sobre:** ✨
-
-Desenvolvo as aplicações com as seguintes tecnologias:
-
-**FrontEnd:**
-  - React
-  - Gatsby
-  - Flutter
-#
-    
-**API Rest:**
-  - Express
-  - Strapi
+![jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack970&show_icons=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack970&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
